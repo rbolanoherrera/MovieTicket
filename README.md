@@ -6,7 +6,7 @@ MF-ListMovies:
 https://github.com/rbolanoherrera/MF-Movie-List
 
 MF-TicketAvailability:
-
+git@github.com:rbolanoherrera/MF-TicketAvailability.git
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.0.6.
 
